@@ -1,8 +1,6 @@
 # ChatGPT-Clone
 A sleek and modern clone of ChatGPT built with HTML and styled using the Tailwind CSS framework. This project showcases a simple yet elegant chat interface, emulating the interactive experience of OpenAI's ChatGPT.
 
-# ChatGPT Clone
-
 This project is a simple and elegant clone of ChatGPT, created using HTML and styled with Tailwind CSS. It replicates the chat interface experience without any backend functionality.
 
 ## Features
