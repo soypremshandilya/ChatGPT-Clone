@@ -14,10 +14,3 @@ This project is a simple and elegant clone of ChatGPT, created using HTML and st
 - **HTML**: Provides the structure and markup of the chat interface.
 - **Tailwind CSS**: Offers a utility-first approach to styling and responsive design.
 
-## Installation
-
-To get started with this project locally, follow these steps:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/chatgpt-clone.git
